@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JerryJeager
-- 👀 I’m interested in Web2 and Blockchain Development
-- 🌱 I’m currently learning Cascading Style Sheet
+- 👀 I’m a Frontend web developer and Computer Scientist.
+- 🌱 Html5, Css3, Javascript
 - 📫 How to reach me ...i'm on twitter- Jerry@Jerry_Jeager
 
 <!---
