@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JerryJeager
 - 👀 I’m a Frontend web developer and Computer Scientist.
-- 🌱 Html5, Css3, Javascript
+- 🌱 I speak Html5, Css3 and Javascript
 - 📫 How to reach me ...i'm on twitter- Jerry@Jerry_Jeager
 
 <!---
