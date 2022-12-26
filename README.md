@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JerryJeager
 - 👀 I’m a Frontend web developer and Computer Scientist.
-- 🌱 I speak Html5, Css3 and Javascript
-- 📫 How to reach me ...i'm on twitter- Jerry@Jerry_Jeager
+- 🌱 I have knowledge of html, css and Javascript. I'm learning React.js and i'm open to working on real live web based projects.
+- 📫 How to reach me ...email => amadijerry823@gmail.com
 
 <!---
 JerryJeager/JerryJeager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
