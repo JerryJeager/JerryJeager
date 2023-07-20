@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JerryJeager
 - 👀 I’m a Frontend web developer and Computer Science Student.
-- 🌱 I have knowledge of html, css and Javascript. I'm learning React.js and i'm open to working on web based projects.
+- 🌱 I have knowledge of html, css and Javascript, Tailwind, Bootstrap and React. I'm open to working on web based projects.ts.
 - 📫 How to reach me ...email => amadijerry823@gmail.com
 
 <!---
