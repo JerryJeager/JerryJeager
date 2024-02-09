@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student and Frontend Developer<br>I have knowledge of Javascript, React and Tailwind<br>I'm currently learning Typescript and Next.js<br>I'm open to collaborations and work on Web based projects
+I'm a computer science student and Frontend Developer<br>I'm currently learning Backend Development with Go.<br>I'm open to collaborations and work on Web based projects
 
 
 ## 🌐 Socials:
